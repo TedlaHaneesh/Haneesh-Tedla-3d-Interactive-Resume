@@ -14,13 +14,13 @@ A browser-based 3D interactive resume built with Three.js. Instead of a static p
 
 You navigate a first-person 3D world across 5 rooms, each representing a section of my resume:
 
-- **Room 1** — About Me
-- **Room 2** — Skills
-- **Room 3** — Projects
-- **Room 4** — Education
-- **Room 5** — Achievements & Certifications
+- **Room 1** - About Me
+- **Room 2** - Skills
+- **Room 3** - Projects
+- **Room 4** - Education
+- **Room 5** - Achievements & Certifications
 
-Each room has clickable frames that reveal detailed content. To move to the next room, you find a hidden key and use it to unlock the door — a deliberate mechanic that keeps the experience engaging rather than passive.
+Each room has clickable frames that reveal detailed content. To move to the next room, you find a hidden key and use it to unlock the door - a deliberate mechanic that keeps the experience engaging rather than passive.
 
 ---
 
@@ -38,11 +38,11 @@ Each room has clickable frames that reveal detailed content. To move to the next
 
 ## Game Mechanics
 
-- **Key collection** — A glowing key is hidden in each room. Walk up to it and press E to pick it up.
-- **Door unlock** — Approach the door with a key and press E to unlock it. The door physically swings open.
-- **Click to explore** — Each room has exhibit frames on the walls. Click them to read detailed resume content.
-- **Progress tracking** — A checklist on the HUD tracks which rooms you've completed.
-- **Hover detection** — Looking at a frame shows a prompt so you always know what's interactable.
+- **Key collection** - A glowing key is hidden in each room. Walk up to it and press E to pick it up.
+- **Door unlock** - Approach the door with a key and press E to unlock it. The door physically swings open.
+- **Click to explore** - Each room has exhibit frames on the walls. Click them to read detailed resume content.
+- **Progress tracking** - A checklist on the HUD tracks which rooms you've completed.
+- **Hover detection** - Looking at a frame shows a prompt so you always know what's interactable.
 
 ---
 
@@ -79,4 +79,4 @@ The idea came from wanting to present a resume as something you experience rathe
 ## Author
 
 **Haneesh Tedla**
-[LinkedIn](https://www.linkedin.com/in/haneesh-tedla-991b9a249) · [GitHub](https://github.com/yourusername](https://github.com/TedlaHaneesh) · haneeshtedla@gmail.com
+[LinkedIn](https://www.linkedin.com/in/haneesh-tedla-991b9a249) · [GitHub](https://github.com/TedlaHaneesh) · haneeshtedla@gmail.com
