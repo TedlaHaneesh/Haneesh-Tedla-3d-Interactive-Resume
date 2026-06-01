@@ -1,4 +1,4 @@
-# Haneesh Tedla — Interactive 3D Resume
+# Haneesh Tedla - Interactive 3D Resume
 
 A browser-based 3D interactive resume built with Three.js. Instead of a static page, the experience lets you walk through a first-person 3D environment where each section of my resume is a room you explore, complete with collectibles, locked doors, and clickable exhibits.
 
@@ -48,10 +48,10 @@ Each room has clickable frames that reveal detailed content. To move to the next
 
 ## Tech Stack
 
-- **Three.js** — 3D scene, geometry, lighting, raycasting
-- **Vite** — Dev server and build tool
-- **Vanilla JavaScript** — No frameworks, clean ES module structure
-- **HTML + CSS** — HUD overlay, info cards, start screen
+- **Three.js** - 3D scene, geometry, lighting, raycasting
+- **Vite** - Dev server and build tool
+- **Vanilla JavaScript** - No frameworks, clean ES module structure
+- **HTML + CSS** - HUD overlay, info cards, start screen
 
 ---
 
@@ -70,39 +70,13 @@ Each room has clickable frames that reveal detailed content. To move to the next
 
 ---
 
-## Local Setup
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-npm install
-npm run dev
-```
-
-Open `http://localhost:5173` in your browser.
-
----
-
-## Deployment
-
-Deployed on **Vercel**. To redeploy:
-
-```bash
-npm run build
-vercel --prod
-```
-
----
-
 ## Concept
 
-The idea came from wanting to present a resume as something you experience rather than read. A static PDF communicates the same information but leaves no impression. This project forces the viewer to actively engage — finding keys, unlocking rooms, clicking through exhibits — which mirrors how I approach problems: deliberately and with attention to detail.
-
-Built as part of my Deloitte internship assignment on creative front-end development.
+The idea came from wanting to present a resume as something you experience rather than read. A static PDF communicates the same information but leaves no impression. This project forces the viewer to actively engage - finding keys, unlocking rooms, clicking through exhibits - which mirrors how I approach problems: deliberately and with attention to detail.
 
 ---
 
 ## Author
 
 **Haneesh Tedla**
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername) · haneesh@email.com
+[LinkedIn](https://www.linkedin.com/in/haneesh-tedla-991b9a249) · [GitHub](https://github.com/yourusername](https://github.com/TedlaHaneesh) · haneeshtedla@gmail.com
