@@ -6,7 +6,7 @@ A browser-based 3D interactive resume built with Three.js. Instead of a static p
 
 ## Live Demo
 
-🔗 [View Live](https://haneeshtedlaresume.netlify.app/)
+🔗 [View Live](https://haneeshtedlainteractiveresume.netlify.app/)
 
 ---
 
