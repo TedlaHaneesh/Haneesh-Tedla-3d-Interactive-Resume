@@ -70,6 +70,19 @@ Each room has clickable frames that reveal detailed content. To move to the next
 
 ---
 
+## Local Setup
+
+```bash
+git clone https://github.com/TedlaHaneesh/Haneesh-Tedla-3d-Interactive-Resume.git
+cd Haneesh-Tedla-3d-Interactive-Resume
+npm install
+npm run dev
+```
+
+Open `http://localhost:5173` in your browser.
+
+---
+
 ## Concept
 
 The idea came from wanting to present a resume as something you experience rather than read. A static PDF communicates the same information but leaves no impression. This project forces the viewer to actively engage - finding keys, unlocking rooms, clicking through exhibits - which mirrors how I approach problems: deliberately and with attention to detail.
