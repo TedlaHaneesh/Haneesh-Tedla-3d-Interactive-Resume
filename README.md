@@ -18,7 +18,7 @@ You navigate a first-person 3D world across 5 rooms, each representing a section
 - **Room 2** - Skills
 - **Room 3** - Projects
 - **Room 4** - Education
-- **Room 5** - Achievements & Certifications
+- **Room 5** - Achievements
 
 Each room has clickable frames that reveal detailed content. To move to the next room, you find a hidden key and use it to unlock the door - a deliberate mechanic that keeps the experience engaging rather than passive.
 
